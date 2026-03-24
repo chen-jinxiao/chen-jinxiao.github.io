@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Darius 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-Itisxiao-blue?logo=github)](https://github.com/Itisxiao)
 [![Email](https://img.shields.io/badge/Email-darius.chenjx@gmail.com-red?logo=gmail)](mailto:darius.chenjx@gmail.com)
