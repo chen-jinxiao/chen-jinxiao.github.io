@@ -14,7 +14,7 @@ Beyond work, I love:
 - 🎮 Playing **League of Legends** (mid/main support, always climbing 📈)
 - 📺 Watching live streams (tech talks, gaming, or just chill vibes)
 - 🧮 Exploring low-level math: number theory, linear algebra, algorithmic complexity
-- 🔌 Prototyping with **Arduino** and embedded systems — because software meets hardware is magic ✨
+- 🔌 Prototyping with **ESP32** and embedded systems — because software meets hardware is magic ✨
 
 ## 📚 Currently Learning / Exploring
 - How consensus algorithms (Raft, Paxos) really work under failure scenarios
